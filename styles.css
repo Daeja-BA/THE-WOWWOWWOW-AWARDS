@@ -1,0 +1,29 @@
+img{width:900px;
+width:900px;
+font-size:900px;}
+
+h2 {font-family: 'Staatliches', cursive;
+font-size:40px;}
+
+h1 {font-family: 'Stoke', serif;}
+
+p{font-size:20px; font-family: 'Stoke', serif;}
+
+h3{ font-size:40px;font-family: 'Anton', sans-serif;}
+
+h4{font-size:40px;font-family: 'Lobster', cursive;}
+
+h5{font-size:40px;}
+.gray{color:#fcf000;}
+
+    .titles{color:#00fcdf;}
+        
+        .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.size{font-size:60px;}
+   body {background-image: url(https://cdn130.picsart.com/281144600016201.png?r1024x1024);}
